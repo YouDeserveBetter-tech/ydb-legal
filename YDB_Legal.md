@@ -1,0 +1,326 @@
+# YDB — YOU DESERVE BETTER
+# PRIVACY POLICY & TERMS AND CONDITIONS
+# Effective Date: February 24, 2026
+# Last Updated: February 24, 2026
+
+---
+
+# PRIVACY POLICY
+
+## 1. Who We Are
+
+YDB — You Deserve Better ("YDB", "we", "us", "our") is a women's health application designed to support women managing PCOS (Polycystic Ovary Syndrome) and related hormonal health conditions. We are operated by You Deserve Better Health Technologies Private Limited, India.
+
+For any privacy-related questions, contact us at: privacy@youdeservebetter.in
+
+---
+
+## 2. What Data We Collect
+
+We collect only what is necessary to provide you with a personalised health experience.
+
+### 2.1 Account Information
+- Full name and email address
+- Date of birth
+- Profile photo (optional)
+- Phone number (optional)
+
+### 2.2 Health Assessment Data
+When you complete our onboarding health assessment, we collect:
+- Lifestyle information (daily routine, stress levels, sleep patterns)
+- Self-reported health conditions and PCOS diagnosis status
+- Symptoms you experience
+- Current medications and supplements
+- Eating habits and exercise patterns
+- Health goals and preferences
+
+### 2.3 Daily Tracking Data
+Data you log through the app including:
+- Menstrual cycle dates and flow details
+- Daily mood, energy levels, and stress ratings
+- Sleep duration
+- Symptoms experienced
+- Water intake
+- Habit completion records
+
+### 2.4 Medical Documents
+Documents you choose to upload to your Medical Vault including prescriptions, lab reports, scans, and vaccination records. These are stored encrypted and are only accessible by you.
+
+### 2.5 Usage Data
+- App features you use and how frequently
+- Device type and operating system
+- App crash reports and error logs
+- Push notification preferences
+
+### 2.6 Community Content
+Posts and comments you share in the YDB community forum.
+
+---
+
+## 3. How We Use Your Data
+
+We use your data exclusively to:
+
+- Provide personalised AI-generated health insights, daily recommendations, and weekly summaries
+- Track and display your cycle patterns and health trends
+- Generate risk signal alerts for health patterns that may need attention
+- Send you notifications and reminders you have opted into
+- Enable expert consultation booking
+- Improve the accuracy of our AI recommendations over time
+- Ensure the security and integrity of the platform
+
+**We do not use your data for advertising. We do not sell your data to any third party. Ever.**
+
+---
+
+## 4. AI-Generated Health Insights
+
+YDB uses Anthropic's Claude AI to generate personalised health insights based on your assessment and tracking data. When generating insights:
+
+- Your data is sent securely to Anthropic's API for processing
+- Anthropic processes your data in accordance with their privacy policy
+- No personally identifiable information is included in AI prompts beyond what is necessary for insight generation
+- AI-generated insights are for informational purposes only and do not constitute medical advice
+
+---
+
+## 5. How We Store and Protect Your Data
+
+- All data is stored on Supabase's secure cloud infrastructure
+- Medical documents are stored in private, encrypted storage buckets
+- Row Level Security (RLS) ensures you can only access your own data
+- All data transmission is encrypted using TLS/SSL
+- We never store your password in plain text
+- Your Medical Vault documents are private and inaccessible to YDB staff
+
+---
+
+## 6. Data Sharing
+
+We share your data only in these limited circumstances:
+
+| Recipient | Purpose | What is shared |
+|-----------|---------|----------------|
+| Anthropic (Claude API) | AI insight generation | Anonymised health metrics |
+| Supabase | Data storage and authentication | All app data (encrypted) |
+| Expo (EAS) | App delivery and updates | Device token only |
+| Expert practitioners | Consultation booking only | Name, booking details only — with your consent |
+
+We do not share your data with insurance companies, pharmaceutical companies, advertisers, or data brokers.
+
+---
+
+## 7. Your Rights
+
+You have the right to:
+
+- **Access** — Request a copy of all data we hold about you
+- **Correction** — Update or correct your personal information at any time through the app
+- **Deletion** — Request complete deletion of your account and all associated data
+- **Export** — Request your data in a portable format
+- **Opt-out** — Turn off any or all notifications at any time in Settings
+- **Withdraw consent** — Stop using the app and request data deletion at any time
+
+To exercise any of these rights, email us at: privacy@youdeservebetter.in
+We will respond within 30 days.
+
+---
+
+## 8. Data Retention
+
+- Active account data: retained as long as your account exists
+- After account deletion: all personal data deleted within 30 days
+- Community posts: anonymised or deleted upon account deletion
+- Crash logs and error reports: retained for 90 days
+
+---
+
+## 9. Children's Privacy
+
+YDB is intended for users aged 18 and above. We do not knowingly collect data from anyone under 18. If you believe a minor has created an account, please contact us immediately at privacy@youdeservebetter.in.
+
+---
+
+## 10. Sensitive Health Data
+
+We recognise that health data is deeply personal. We treat all health-related data you provide — including PCOS diagnosis, symptoms, menstrual data, and mental health information — with the highest level of care and confidentiality. This data is never shared with employers, insurers, or any third party without your explicit consent.
+
+---
+
+## 11. Push Notifications
+
+We send push notifications only for:
+- Daily health insights and reminders
+- Weekly Bloom summaries
+- Health risk signal alerts
+- Consultation reminders
+- Habit and logging reminders
+
+You can turn off any or all notifications at any time in Settings → Notification Preferences.
+
+---
+
+## 12. Changes to This Policy
+
+We will notify you of significant changes to this Privacy Policy through the app and via email. Continued use of the app after changes constitutes acceptance of the updated policy.
+
+---
+
+## 13. Contact Us
+
+You Deserve Better Health Technologies Private Limited
+Email: privacy@youdeservebetter.in
+Support: support@youdeservebetter.in
+Website: youdeservebetter.in
+
+---
+---
+
+# TERMS AND CONDITIONS
+
+## 1. Acceptance of Terms
+
+By downloading, installing, or using YDB — You Deserve Better ("the App"), you agree to be bound by these Terms and Conditions. If you do not agree, do not use the App.
+
+---
+
+## 2. About YDB
+
+YDB is a personal health tracking and wellness application designed to support women with PCOS and hormonal health concerns. The App provides:
+- AI-powered personalised health insights
+- Menstrual cycle and symptom tracking
+- Habit tracking and wellness monitoring
+- Access to health expert consultations
+- A community forum for peer support
+- Secure medical document storage
+
+---
+
+## 3. Not Medical Advice
+
+**IMPORTANT: YDB is not a medical device and does not provide medical advice.**
+
+All content, insights, recommendations, and information provided by YDB — including AI-generated insights — are for informational and educational purposes only. They are not a substitute for professional medical advice, diagnosis, or treatment.
+
+Always seek the advice of a qualified healthcare provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay seeking it because of something you read or received in this App.
+
+If you are experiencing a medical emergency, call your local emergency services immediately.
+
+---
+
+## 4. Eligibility
+
+To use YDB you must:
+- Be at least 18 years of age
+- Provide accurate and truthful information during registration
+- Have a valid email address
+- Agree to these Terms and Conditions
+
+---
+
+## 5. Your Account
+
+You are responsible for:
+- Maintaining the confidentiality of your account credentials
+- All activity that occurs under your account
+- Notifying us immediately of any unauthorised access at support@youdeservebetter.in
+- Providing accurate information in your profile and health assessment
+
+We reserve the right to suspend or terminate accounts that violate these terms.
+
+---
+
+## 6. Health Assessment and Tracking Data
+
+The health assessment and daily tracking data you provide is used to personalise your experience. You acknowledge that:
+- The accuracy of insights depends on the accuracy of data you provide
+- AI-generated insights are based on patterns and general health knowledge — not clinical diagnosis
+- You should not make significant health decisions based solely on App recommendations
+- YDB is a wellness tool, not a clinical diagnostic instrument
+
+---
+
+## 7. Community Guidelines
+
+When participating in the YDB community forum, you agree not to:
+- Share false, misleading, or dangerous health information
+- Promote unverified treatments or miracle cures
+- Post content that is abusive, discriminatory, or harassing
+- Spam or post promotional content without permission
+- Share another person's private health information
+
+YDB uses AI moderation on all posts. Posts that violate these guidelines will be rejected. Repeated violations may result in account suspension.
+
+---
+
+## 8. Expert Consultations
+
+When booking consultations through YDB:
+- YDB acts as a platform connecting you with independent health practitioners
+- Consultations are subject to expert availability and confirmation
+- YDB is not responsible for the medical advice provided by independent experts
+- Cancellation and refund policies will be communicated at the time of booking
+- Payment processing is handled securely through our payment partners
+
+---
+
+## 9. Medical Vault
+
+Your Medical Vault stores documents you upload. You acknowledge that:
+- You are responsible for the accuracy of documents you upload
+- YDB stores these documents securely but is not responsible for their content
+- You should maintain independent copies of all important medical documents
+- Document storage is provided as a convenience feature, not as a certified medical records system
+
+---
+
+## 10. Intellectual Property
+
+All content within YDB — including the app design, AI-generated insights, educational content, and branding — is owned by You Deserve Better Health Technologies Private Limited. You may not reproduce, distribute, or create derivative works without our explicit written permission.
+
+Your personal health data remains yours. We claim no ownership over data you enter into the App.
+
+---
+
+## 11. Limitation of Liability
+
+To the maximum extent permitted by applicable law, YDB and its team shall not be liable for:
+- Any health outcomes resulting from following App recommendations
+- Data loss due to technical failures beyond our reasonable control
+- Decisions made based on AI-generated insights
+- Actions or advice of independent expert practitioners booked through the App
+- Any indirect, incidental, or consequential damages
+
+---
+
+## 12. Termination
+
+You may delete your account at any time from Profile → Settings → Delete Account. Upon deletion, all your personal data will be permanently removed within 30 days.
+
+We reserve the right to terminate or suspend access to the App for violations of these Terms, without prior notice.
+
+---
+
+## 13. Governing Law
+
+These Terms are governed by the laws of India. Any disputes shall be subject to the exclusive jurisdiction of the courts of Mumbai, Maharashtra, India.
+
+---
+
+## 14. Changes to Terms
+
+We may update these Terms from time to time. We will notify you of significant changes through the App and via email. Continued use of the App after changes constitutes your acceptance of the updated Terms.
+
+---
+
+## 15. Contact Us
+
+You Deserve Better Health Technologies Private Limited
+Email: legal@youdeservebetter.in
+Support: support@youdeservebetter.in
+Website: youdeservebetter.in
+
+---
+
+*These documents were last updated on February 24, 2026.*
+*You Deserve Better Health Technologies Private Limited, Mumbai, India.*
